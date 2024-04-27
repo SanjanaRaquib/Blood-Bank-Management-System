@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background: linear-gradient(to right, #ffc0cb00, #ff9999);
+}
+
+h1, h2 {
+    text-align: center;
+    color: #fff; 
+    margin-bottom: 10px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+    display: flex;
+    flex-
